@@ -1,37 +1,144 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/anlan512/minority-test.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anlan512/minority-test.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<style>
+table{
+border-collapse: collapse;
+width: 100%;
+}
+th, td{
+text-align: left;
+padding: 8px;
+}
+tr:nth-child(even){
+background-color: #fafafa;
+}
+th{
+background-color: #7799AA;
+color: white;
+}
+</style>
+</head>
+<body>
+<table>
+<tr><th>f12</th><th>COUNT</th></tr>
+<tr><td>贵州大学</td><td>144</td></tr>
+<tr><td>西南大学</td><td>112</td></tr>
+<tr><td>贵州民族大学</td><td>100</td></tr>
+<tr><td>中国科学院大学</td><td>90</td></tr>
+<tr><td>东北师范大学</td><td>71</td></tr>
+<tr><td>中央民族大学</td><td>53</td></tr>
+<tr><td>中南财经政法大学</td><td>49</td></tr>
+<tr><td>陕西师范大学</td><td>46</td></tr>
+<tr><td>西南财经大学</td><td>42</td></tr>
+<tr><td>华中师范大学</td><td>42</td></tr>
+<tr><td>南京大学</td><td>41</td></tr>
+<tr><td>西南民族大学</td><td>40</td></tr>
+<tr><td>中山大学</td><td>37</td></tr>
+<tr><td>厦门大学</td><td>36</td></tr>
+<tr><td>中国人民大学</td><td>35</td></tr>
+<tr><td>重庆大学</td><td>32</td></tr>
+<tr><td>西北民族大学</td><td>32</td></tr>
+<tr><td>湖南大学</td><td>31</td></tr>
+<tr><td>北京大学</td><td>29</td></tr>
+<tr><td>华东师范大学</td><td>28</td></tr>
+<tr><td>中南民族大学</td><td>28</td></tr>
+<tr><td>吉林大学</td><td>27</td></tr>
+<tr><td>南京师范大学</td><td>27</td></tr>
+<tr><td>华北电力大学</td><td>26</td></tr>
+<tr><td>华中科技大学</td><td>26</td></tr>
+<tr><td>清华大学</td><td>25</td></tr>
+<tr><td>海南大学</td><td>24</td></tr>
+<tr><td>天津师范大学</td><td>24</td></tr>
+<tr><td>中国传媒大学</td><td>23</td></tr>
+<tr><td>中国政法大学</td><td>22</td></tr>
+<tr><td>同济大学</td><td>22</td></tr>
+<tr><td>复旦大学</td><td>22</td></tr>
+<tr><td>浙江大学</td><td>21</td></tr>
+<tr><td>中南大学</td><td>20</td></tr>
+<tr><td>武汉大学</td><td>19</td></tr>
+<tr><td>四川大学</td><td>18</td></tr>
+<tr><td>暨南大学</td><td>18</td></tr>
+<tr><td>云南民族大学</td><td>18</td></tr>
+<tr><td>山东大学</td><td>18</td></tr>
+<tr><td>中国人民公安大学</td><td>17</td></tr>
+<tr><td>对外经济贸易大学</td><td>17</td></tr>
+<tr><td>云南大学</td><td>16</td></tr>
+<tr><td>大连理工大学</td><td>16</td></tr>
+<tr><td>福建师范大学</td><td>16</td></tr>
+<tr><td>北方民族大学</td><td>16</td></tr>
+<tr><td>北京工商大学</td><td>16</td></tr>
+<tr><td>北京印刷学院</td><td>16</td></tr>
+<tr><td>上海交通大学</td><td>15</td></tr>
+<tr><td>中央财经大学</td><td>14</td></tr>
+<tr><td>中国海洋大学</td><td>14</td></tr>
+<tr><td>中国地质大学(武汉)</td><td>14</td></tr>
+<tr><td>华南理工大学</td><td>13</td></tr>
+<tr><td>北京师范大学</td><td>13</td></tr>
+<tr><td>广西医科大学</td><td>13</td></tr>
+<tr><td>北京林业大学</td><td>13</td></tr>
+<tr><td>中国财政科学研究院</td><td>13</td></tr>
+<tr><td>武汉理工大学</td><td>13</td></tr>
+<tr><td>华中农业大学</td><td>12</td></tr>
+<tr><td>天津大学</td><td>12</td></tr>
+<tr><td>南京理工大学</td><td>11</td></tr>
+<tr><td>长安大学</td><td>10</td></tr>
+<tr><td>北京交通大学</td><td>10</td></tr>
+<tr><td>南开大学</td><td>10</td></tr>
+<tr><td>合肥工业大学</td><td>10</td></tr>
+<tr><td>东北大学</td><td>10</td></tr>
+<tr><td>中国农业科学院</td><td>10</td></tr>
+<tr><td>福州大学</td><td>9</td></tr>
+<tr><td>兰州大学</td><td>9</td></tr>
+<tr><td>南昌大学</td><td>9</td></tr>
+<tr><td>广西大学</td><td>9</td></tr>
+<tr><td>华东理工大学</td><td>9</td></tr>
+<tr><td>西南交通大学</td><td>8</td></tr>
+<tr><td>中国农业大学</td><td>8</td></tr>
+<tr><td>中国矿业大学</td><td>8</td></tr>
+<tr><td>北京航空航天大学</td><td>8</td></tr>
+<tr><td>四川美术学院</td><td>8</td></tr>
+<tr><td>哈尔滨工业大学</td><td>7</td></tr>
+<tr><td>南京中医药大学</td><td>7</td></tr>
+<tr><td>北京电影学院</td><td>7</td></tr>
+<tr><td>大连海事大学</td><td>7</td></tr>
+<tr><td>北京理工大学</td><td>7</td></tr>
+<tr><td>北京联合大学</td><td>7</td></tr>
+<tr><td>东北林业大学</td><td>6</td></tr>
+<tr><td>天津工业大学</td><td>6</td></tr>
+<tr><td>上海外国语大学</td><td>6</td></tr>
+<tr><td>天津中医药大学</td><td>6</td></tr>
+<tr><td>河北大学</td><td>5</td></tr>
+<tr><td>天津医科大学</td><td>5</td></tr>
+<tr><td>北京协和医学院</td><td>5</td></tr>
+<tr><td>南京农业大学</td><td>5</td></tr>
+<tr><td>中国音乐学院</td><td>5</td></tr>
+<tr><td>报考单位</td><td>4</td></tr>
+<tr><td>北京中医药大学</td><td>4</td></tr>
+<tr><td>中国药科大学</td><td>4</td></tr>
+<tr><td>北京外国语大学</td><td>4</td></tr>
+<tr><td>中国石油大学(华东)</td><td>4</td></tr>
+<tr><td>内蒙古大学</td><td>4</td></tr>
+<tr><td>西北农林科技大学</td><td>4</td></tr>
+<tr><td>北京化工大学</td><td>4</td></tr>
+<tr><td>成都体育学院</td><td>4</td></tr>
+<tr><td>南京航空航天大学</td><td>3</td></tr>
+<tr><td>北京语言大学</td><td>3</td></tr>
+<tr><td>中国地质大学(北京)</td><td>3</td></tr>
+<tr><td>江西师范大学</td><td>2</td></tr>
+<tr><td>中央戏剧学院</td><td>2</td></tr>
+<tr><td>西北师范大学</td><td>1</td></tr>
+<tr><td>郑州大学</td><td>1</td></tr>
+<tr><td>景德镇陶瓷大学</td><td>1</td></tr>
+<tr><td>上海师范大学</td><td>1</td></tr>
+<tr><td>江西财经大学</td><td>1</td></tr>
+<tr><td>福建农林大学</td><td>1</td></tr>
+<tr><td>西藏大学</td><td>1</td></tr>
+<tr><td>东华大学</td><td>1</td></tr>
+<tr><td>电子科技大学</td><td>1</td></tr>
+<tr><td>北京体育大学</td><td>1</td></tr>
+<tr><td>天津财经大学</td><td>1</td></tr>
+</table>
+</body>
+</html>
